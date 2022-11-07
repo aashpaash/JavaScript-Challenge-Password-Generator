@@ -1,2 +1,1 @@
-# JavaScript-Challenge-Password-Generator
-Homework assignment 3
+# Password Generator Starter Code
